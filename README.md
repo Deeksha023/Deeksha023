@@ -9,7 +9,7 @@
 <br>
 
 <a href="https://github.com/Deeksha023">
-<img src="https://img.shields.io/badge/GitHub-Deeksha023-181717?style=flat-square&logo=github">
+<img src="https://img.shields.io/badge/GitHub-Deeksha023-181717?style=flat-square&logo=github&logoColor=white">
 </a>
 &nbsp;
 <a href="mailto:deekshavathar@gmail.com">
@@ -24,7 +24,7 @@
 
 > **AI/ML undergraduate passionate about turning ideas into practical intelligent applications.**
 
-I'm a **B.E. Artificial Intelligence & Machine Learning student** with hands-on experience in developing **Machine Learning, Generative AI, RAG, NLP, Computer Vision, and full-stack applications**.
+AI/ML undergraduate with hands-on experience developing **machine learning, GenAI/RAG, and full-stack applications**. Skilled in **Python, FastAPI, React, LangChain, and PostgreSQL**, with practical experience in **NLP, computer vision, recommendation systems, and intrusion detection**.
 
 I enjoy exploring new technologies, building practical projects, and continuously improving my technical skills.
 
@@ -38,44 +38,74 @@ I enjoy exploring new technologies, building practical projects, and continuousl
 
 ---
 
-## ⚡ What I Work With
+# 🛠️ Tech Stack & Ecosystem
 
-### 💻 Programming
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python,c,js,ts" />
-</p>
-
-### 🤖 AI / Machine Learning
+### 💻 Programming Languages
 
 <p>
-
-`Machine Learning` &nbsp;
-`NLP` &nbsp;
-`Computer Vision` &nbsp;
-`RAG` &nbsp;
-`Generative AI` &nbsp;
-`LangChain`
-
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
 </p>
 
-### 🌐 Frameworks & Development
+### 🎨 Frontend Engineering
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=fastapi,react,django" />
+<p>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
+
+### ⚡ Backend & APIs
+
+<p>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
 </p>
 
 ### 🗄️ Databases
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=postgres,mysql" />
+<p>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
-### 🛠️ Tools
+### 🧠 AI / ML & Generative AI
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,vercel" />
+<p>
+<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NLP-8E44AD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Computer%20Vision-00A8E8?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-6C5CE7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/Generative%20AI-FF4081?style=for-the-badge"/>
 </p>
+
+### 📊 AI/ML Libraries
+
+<p>
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+</p>
+
+### 🔧 Tools & Platforms
+
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</p>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,c,js,ts,react,fastapi,django,postgres,mysql,git,github,vscode,postman,docker,vercel" />
+
+</div>
 
 ---
 
@@ -97,7 +127,7 @@ Developed a full-stack AI-powered job recommendation platform using **FastAPI, R
 
 **Tech Stack**
 
-`FastAPI` `React` `TypeScript` `PostgreSQL` `RAG` `AI`
+`FastAPI` `React` `TypeScript` `PostgreSQL` `RAG`
 
 ---
 
@@ -121,18 +151,6 @@ Built a machine learning-based **Network Intrusion Detection System (NIDS)** usi
 
 ---
 
-## 🎯 Personalized Career Recommendation System
-
-**Machine Learning based Career Recommendation**
-
-Designed a personalized recommendation system that suggests suitable career paths based on **user skills, interests, and academic performance**.
-
-### Key Features
-
-- 🎓 Career recommendations
-- 🧠 Skill-based analysis
-- 📊 Academic performance analysis
-- 🔬 Comparison of multiple ML models
 
 **Tech Stack**
 
@@ -140,12 +158,12 @@ Designed a personalized recommendation system that suggests suitable career path
 
 ---
 
-# 🧩 My AI/ML Interests
+# 🧩 AI / ML Interests
 
 <div align="center">
 
 | 🤖 Artificial Intelligence | 🧠 Machine Learning |
-|---|---|
+|:---|:---|
 | Generative AI | Classification |
 | RAG | Recommendation Systems |
 | LLM Applications | Feature Engineering |
@@ -158,13 +176,126 @@ Designed a personalized recommendation system that suggests suitable career path
 
 # 📚 Currently Exploring
 
-```text
-Generative AI
-       ↓
-Retrieval-Augmented Generation
-       ↓
-LLM Applications
-       ↓
-AI-powered Full-Stack Applications
-       ↓
-Advanced Machine Learning
+<div align="center">
+
+`Generative AI` → `RAG` → `LLM Applications` → `AI Full-Stack` → `Advanced ML`
+
+</div>
+
+### Areas I'm Exploring
+
+- 🧠 Deep Learning
+- 🔤 Natural Language Processing
+- 👁️ Computer Vision
+- 🔗 LangChain
+- ✨ Generative AI
+- 🔎 Retrieval-Augmented Generation
+- 🌐 AI-powered APIs
+- 🔐 Cybersecurity & Network Security
+
+---
+
+# 🏆 Achievements
+
+### 🥇 TechFusion 2.0
+
+Participated in a **state-level hackathon**, developing a technical solution and demonstrating problem-solving and technical skills.
+
+### 🏅 Cognizant Techverse Hackathon 2026
+
+Received a **Certificate of Appreciation** for problem-solving, collaboration, and technical skills.
+
+### 👩‍🏫 Teaching Session
+
+Conducted a computer fundamentals teaching session for **higher-primary students of government schools in Moodbidri, Karnataka**.
+
+### 💻 Technical Fest
+
+Volunteered for the **AI/ML Department technical fest**.
+
+---
+
+# 🎓 Certifications & Learning
+
+<div align="center">
+
+| 🏆 Certification | 🌐 Platform |
+|:---|:---:|
+| **The Joy of Computing Using Python and Cloud Computing** | **NPTEL** |
+| **Introduction to NLP, AI & Deep Learning** | **Infosys Springboard** |
+| **Data Analytics** | **Google Cloud** |
+
+</div>
+
+<br>
+
+<div align="center">
+
+🐍 **Python & Cloud Computing** &nbsp; • &nbsp;
+🧠 **NLP, AI & Deep Learning** &nbsp; • &nbsp;
+📊 **Data Analytics**
+
+</div>
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Deeksha023&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deeksha023&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Deeksha023&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 🌱 My Learning Journey
+
+<div align="center">
+
+### Learn → Build → Experiment → Improve → Repeat
+
+</div>
+
+I'm continuously improving my knowledge in **AI/ML and software development** by building projects, experimenting with new technologies, and solving practical problems.
+
+---
+
+# 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://github.com/Deeksha023">
+<img src="https://img.shields.io/badge/GitHub-Deeksha023-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:deekshavathar@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ✨ Building with AI • Learning Every Day • Creating the Future ✨
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=Deeksha023&label=Profile%20Views&color=0e75b6&style=flat" />
+
+</div>
